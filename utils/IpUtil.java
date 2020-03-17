@@ -1,4 +1,4 @@
-package com.qycloud.wrs.util;
+package com.chaojianok.java.util;
 
 import javax.servlet.http.HttpServletRequest;
 

@@ -1,4 +1,4 @@
-package com.qycloud.wrs.util;
+package com.chaojianok.java.util;
 
 /**
  * 中文字符串和unicode互转工具类 . <br>
